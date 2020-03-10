@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(194, 194, 194);
+}
+
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+}
+
+.navbar {
+    background-color: white;
+}
+.navbar-brand {
+    background-color: rgb(49, 153, 153);
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+    font-size: xx-large; 
+    padding:  15px;
+    margin: 0px;
+}
+
+.nav-link {
+    color: black;
+}
